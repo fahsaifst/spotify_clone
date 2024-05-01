@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "d244c137917495febaa1d01891316812d4d9cbeb109407729b24bc798d13621e"
+build_start_time: [1714536178, 567910000]
+build_end_time: [1714536180, 909198000]
+inputs:
+  "/Users/fahsaifst/Desktop/spotify_clone/macos/Flutter/GeneratedPluginRegistrant.swift": [1714536171, 282147432]
+  "/Users/fahsaifst/Desktop/spotify_clone/macos/Runner/AppDelegate.swift": [1671141040, 0]
+  "/Users/fahsaifst/Desktop/spotify_clone/macos/Runner/MainFlutterWindow.swift": [1671141040, 0]
